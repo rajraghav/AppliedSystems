@@ -1,3 +1,11 @@
+Running the server:
+go run .
+ 
+
+
+
+Client using Postman, with following details:
+
 API Endpoints
 
 POST /graph
